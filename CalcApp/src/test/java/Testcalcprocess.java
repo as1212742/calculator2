@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import com.appclac.calcprocess;
 
-public class testcalcprocess {
+public class Testcalcprocess {
 	
 	calcprocess test=new calcprocess();
 	
